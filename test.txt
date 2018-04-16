@@ -1,0 +1,10 @@
+ Volume in drive E is CODING
+ Volume Serial Number is 7645-275F
+
+ Directory of E:\GitHub\MyGitProject_1
+
+04/16/2018  11:11 AM    <DIR>          .
+04/16/2018  11:11 AM    <DIR>          ..
+04/16/2018  11:11 AM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  204,351,029,248 bytes free
